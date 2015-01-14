@@ -185,6 +185,7 @@ header .wrapper {
 .msrp {
 	font-weight: bolder;
 	margin-top: 0;
+	margin-bottom: 10px;
 }
 .suggestions {
 	position: relative;
@@ -204,7 +205,7 @@ header .wrapper {
 	float: left;
 	display: inline-block;
 	width: 40%;
-	height: 225px; 
+	height: 215px; 
 	border-left: 1px solid #666666;
 	padding-left: 30px;
 }
